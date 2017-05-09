@@ -1,0 +1,28 @@
+.module-9 {
+  text-align: center;
+}
+.module-9 .heading {
+  font-family: 'Oswald', sans-serif;
+  margin-top: 100px;
+  margin-bottom: 25px;
+}
+.module-9 .title {
+  font-size: 80px;
+  color: #111;
+  line-height: 0.7;
+  margin: 0 0 20px;
+  text-transform: uppercase;
+}
+.module-9 .subtitle {
+  margin: 0;
+  display: inline-block;
+  border: 1px solid #aaa;
+  border-width: 1px 0;
+  padding: 5px 0;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+.module-9 .aa {
+  padding: 5px;
+}

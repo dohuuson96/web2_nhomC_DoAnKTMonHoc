@@ -1,0 +1,70 @@
+.module30 .sl1 {
+    transform: rotate(135deg);
+    display: block;
+    margin: 0 auto;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 1px solid;
+    padding: 2px 0 0;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 14px;
+    outline: 0;
+    color: inherit;
+    text-decoration: none;
+}
+.module30 .sl1 p {
+    display: inline-block;
+    transition: none;
+    transform: translateX(-2px) translateY(25px) rotate(-70deg);
+}
+.module30 .sl1 p1 {
+    display: inline-block;
+    transition: none;
+    transform: translateX(-11px) translateY(12px) rotate(-47deg);
+}
+.module30 .sl1 p2 {
+    display: inline-block;
+    transition: none;
+    transform: translateX(-12px) translateY(4px) rotate(-29deg);
+}
+.module30 .sl1 p3 {
+    display: inline-block;
+    transition: none;
+    transform: translateX(-12px) translateY(1px) rotate(-5deg);
+}
+.module30 .sl1 p4 {
+    display: inline-block;
+    transition: none;
+    transform: translateX(-13px) translateY(6px) rotate(24deg);
+}
+.module30 .sl1 p5 {
+    display: inline-block;
+    transition: none;
+    transform: translateX(35px) translateY(-15px) rotate(45deg);
+}
+.module30 .sl1 p6 {
+    display: inline-block;
+    transition: none;
+    transform: translateX(24px) translateY(-1px) rotate(68deg);
+}
+.module30 .hd2 {
+    margin-top: 45px;
+    text-align: center;
+}
+.module30 .hd2 h2 {
+    font-size: 80px;
+    color: #000;
+        font-family: Oswald, sans-serif;
+}
+.module30 .hd2 p {
+        font-family: Oswald, sans-serif;
+    margin-top: -10px;
+    display: inline-block;
+    border: 1px solid #aaa;
+    border-width: 1px 0;
+    padding: 5px 0;
+    letter-spacing: 3px;
+}

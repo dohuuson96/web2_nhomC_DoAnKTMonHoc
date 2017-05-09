@@ -1,0 +1,94 @@
+.module-4 {
+   margin-top: -223px;
+  font-family: 'Oswald', sans-serif;
+  padding-top: 605px;
+  background: url(../images/m2.jpg);
+ 
+  background-size: cover;
+  background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+  color: #fff;
+}
+
+.module-4 .show h1{
+    text-align: center;
+    color: #fff;
+    font-family: Bahiana, sans-serif;
+    font-size: 120px;
+}
+.module-4 .img {
+  transform: translate(0%,-90%) translate3d(0px,0px,0px);
+}
+.module-4 .name {
+  padding-bottom: 15px;
+}
+.module-4 h2 {
+  color: #fff;
+  line-height: 1.2;
+  text-transform: uppercase;
+  clear: both;
+  margin: 0px 0px 20px;
+}
+.module-4 .page-subtitle {
+  line-height: 1.1;
+  display: table;
+  letter-spacing: 5px;
+  font-weight: 300;
+  font-size: 16px;
+  position: relative;
+  margin: 0px auto;
+  padding: 5px 0px;
+}
+.module-4 .dine-divider {
+  text-align: center;
+  font-size: 14px;
+  overflow: hidden;
+}
+.module-4 .divider-inner {
+  position: relative;
+  display: inline-block;
+}
+.module-4 .divider-line.line-left {
+  right: 100%;
+  margin-right: 10px;
+}
+.module-4 .divider-line {
+  position: absolute;
+  top: 50%;
+  width: 90px;
+  border-top: 1px solid;
+}
+.module-4 .divider-line.line-right {
+  left: 100%;
+  margin-left: 10px;
+}
+.module-4 .book {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 10px;
+  text-align: center;
+}
+.module-4 .book a {
+  text-decoration: none;
+  border: 2px solid #fff;
+  border-radius: 2px;
+  padding: 12px 30px;
+  color: #fff;
+}
+.module-4 .bk {
+  padding-bottom: 45px;
+  padding-top: 45px;
+}
+.module-4 .ic {
+  text-align: center;
+}
+.module-4 .ic a {
+  border-radius: 50%;
+  border: 2px solid;
+  color: #fff;
+  padding: 0 6px;
+}
+.module-4 .fa {
+  color: #fff;
+}

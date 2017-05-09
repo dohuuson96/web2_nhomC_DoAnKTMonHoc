@@ -1,0 +1,122 @@
+.module-25 {
+  font-family: Lato, sans-serif;
+  margin-top: 90px;
+}
+.module-25 .footer-top {
+  text-align: center;
+  background: #12171b;
+  color: #E5E6E6;
+  padding: 60px 0;
+}
+.module-25 .title {
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 11px;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+.module-25 .name {
+  font-size: .9em;
+}
+.module-25 .ic {
+  border-right: 1px dashed #999;
+  border-left: 1px dashed #999;
+}
+.module-25 .icon a:focus {
+  outline: dotted thin;
+}
+.module-25 .icon a {
+  padding-top: 6px;
+  color: inherit;
+  border: 0;
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  line-height: 25px;
+  margin: 0 2px;
+  background: #111;
+  color: white;
+  border-radius: 50%;
+}
+.module-25 .icon ul {
+  padding: 0;
+  margin-bottom: 30px;
+}
+.module-25 .footer_bottom {
+  background: #000;
+  color: #ccc;
+  padding: 50px 0;
+}
+.module-25 .logo {
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+}
+.module-25 .logo a {
+  display: inline-block;
+}
+.module-25 .logo img {
+  display: block;
+  width: 80px;
+  padding-bottom: 20px;
+}
+.module-25 .dine-divider {
+  text-align: center;
+  font-size: 14px;
+  padding-bottom: 10px;
+}
+.module-25 .divider-inner {
+  color: #7F7F7F;
+  position: relative;
+  display: inline-block;
+}
+.module-25 .line-left {
+  right: 100%;
+  margin-right: 10px;
+}
+.module-25 .divider-line {
+  position: absolute;
+  top: 50%;
+  border-top: 1px solid;
+  width: 90px;
+}
+.module-25 .line-right {
+  left: 100%;
+  margin-left: 10px;
+}
+.module-25 .footernav {
+  margin-top: 30px;
+  margin-bottom: 50px;
+  list-style: none;
+  font-family: Oswald, sans-serif;
+}
+.module-25 .menu {
+  text-align: center;
+  display: block;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 9px;
+}
+.module-25 .mn {
+  border-right: 1px solid #242424;
+  padding: 0 10px;
+}
+.module-25 .buy {
+  padding-left: 10px;
+}
+.module-25 .footernav li {
+  display: inline-block;
+  font-size: 10px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.module-25 .footernav a {
+  color: inherit;
+  outline: 0;
+  letter-spacing: 2px;
+}
+.module-25 .footernav a:hover {
+  text-decoration: underline;
+}

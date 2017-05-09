@@ -1,0 +1,131 @@
+@media only screen and (max-width: 767px) {
+    .module16 {
+        width: 100%;
+    }
+}
+.module16 {
+    margin-top: 95px;
+}
+.module16 .footer_widgets {
+    text-align: center;
+    background: #12171b;
+    color: #E5E6E6;
+    padding: 55px 0;
+}
+.module16 .widget-title {
+    font-family: "Oswald", sans-serif;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 11px;
+    letter-spacing: 3px;
+    color: #fff;
+}
+.module16 .textwidget {
+    font-size: .9em;
+}
+.module16 p {
+    padding-top: 10px;
+}
+.module16 .dg {
+    border-right: 1px dashed #999;
+    border-left: 1px dashed #999;
+}
+.module16 .social-list {
+    text-align: center;
+    transform: translateX(-20px);
+}
+.module16 .social-list a {
+    color: inherit;
+    border: 0;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    line-height: 25px;
+    margin: 0 2px;
+    background: #111;
+    color: white;
+    border-radius: 50%;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    padding-top: 5px;
+     
+}
+.module16 .footer_bottom {
+    background: #000;
+    color: #ccc;
+    padding: 23px 0;
+   margin-bottom: -20px;
+
+}
+.module16 .logo {
+    display: block !important;
+    margin: 20px auto;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.module16 .logo a {
+    display: inline-block;
+}
+.module16 .logo img {
+    display: block;
+    width: 80px;
+}
+.module16 .dine-divider {
+    text-align: center;
+    font-size: 14px;
+    padding-bottom: 9px;
+}
+.module16 .divider-inner {
+    color: #7F7F7F;
+    position: relative;
+    display: inline-block;
+}
+.module16 .line-left {
+    right: 100%;
+    margin-right: 10px;
+}
+.module16 .divider-line {
+    position: absolute;
+    top: 50%;
+    border-top: 1px solid;
+    width: 90px;
+}
+.module16 .line-right {
+    left: 100%;
+    margin-left: 10px;
+}
+.module16 .footernav {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.module16 .menu {
+    text-align: center;
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 9px;
+    color: white;
+}
+.module16 .cach {
+    border-right: 1px solid #242424;
+    padding: 0 10px;
+}
+.module16 .buy {
+    padding-left: 10px;
+}
+.module16 .footernav a {
+    display: inline-block;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.module16 .footernav a {
+    color: inherit;
+    outline: 0;
+    letter-spacing: 2px;
+}
+.module16 .footernav a:hover {
+    text-decoration: underline;
+}

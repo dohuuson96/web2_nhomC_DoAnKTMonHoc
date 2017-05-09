@@ -1,0 +1,18 @@
+@media only screen and (max-width: 767px) {
+    .module31 {
+        margin: -6px -3px 0;
+        
+    }
+}
+.module31 {
+    display: flex;
+    align-items: center;
+    flex-flow: row wrap;
+    position: relative;
+}
+.module31 img {
+    margin-top: 25px;
+    width: 107.5%;
+    height: 323px;
+    transform: translate(-9px);
+}

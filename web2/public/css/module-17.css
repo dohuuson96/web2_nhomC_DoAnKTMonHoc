@@ -1,0 +1,63 @@
+.module-17 {
+  font-size: 12px;
+  height: 54px;
+  background-color: #262626;
+  z-index: 100;
+  line-height: 54px;
+  margin-bottom: 1px;
+}
+.module-17 .envato {
+  padding: 0 20px;
+}
+.module-17 .envato a {
+  display: inline-block;
+  position: absolute;
+  top: 18px;
+  text-indent: -200px;
+  height: 18px;
+  width: 152px;
+  background: url(../images/envato_market-a5ace93f8482e885ae008eb481b9451d379599dfed24868e52b6b2d66f5cf633.svg);
+  background-size: 152px 18px;
+}
+.module-17 .actions {
+  float: right;
+}
+.module-17 .action-buy {
+  display: inline-block;
+  padding: 0 20px;
+}
+.module-17 .buynow {
+  box-shadow: 0 2px 0 #6f9a37;
+  position: relative;
+  background-color: #82b440;
+  color: #fff;
+  border: 1px solid #82b440;
+  border-radius: 4px;
+  font-size: 14px;
+  padding: 5px 20px;
+  line-height: 1.5;
+  display: inline-block;
+}
+.module-17 .buynow:hover {
+  background-color: #7aa93c;
+  text-decoration: none;
+  color: #fff;
+}
+.module-17 .action-remove {
+  display: inline-block;
+  padding: 0 20px;
+  border-left: 1px solid #333;
+  color: #999;
+}
+.module-17 .action-remove a {
+  color: #999;
+}
+.module-17 .action-remove a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+.module-17 .action-remove i {
+  color: #fff;
+  font-size: 10px;
+  margin-right: 10px;
+}

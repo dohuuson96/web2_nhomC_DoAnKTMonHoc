@@ -1,0 +1,45 @@
+.module27 {
+    padding: 38px;
+    width: 100%;
+    height: 73% !important;
+    background: url(../images2/imagebox3.jpg);
+    background-position: 0px -250px;
+    background-size: cover;
+    text-align: center;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: -20px;
+    font-family: Oswald, sans-serif;
+}
+.module27 h1 {
+    color: white;
+    font-size: 80px;
+    
+}
+.module27 p {
+    color: white;
+    font-size: 16px;
+}
+.module27 .divider-inner {
+    color: white;
+    position: relative;
+    display: inline-block;
+}
+.module27 .line-left {
+    right: 100%;
+    margin-right: 10px;
+}
+.module27 .divider-line {
+    position: absolute;
+    top: 50%;
+    border-top: 1px solid;
+    width: 90px;
+}
+.module27 .line-right {
+    left: 100%;
+    margin-left: 10px;
+}
+.module27 .banner {
+    padding: 150px 0;
+}

@@ -1,0 +1,35 @@
+.module-8 {                                                                  
+  font-family: Bahiana, sans-serif;
+  text-align: center;
+}
+.module-8 .img {
+  background: url(../images/h2.jpg);
+  padding: 250px;
+  background-size: cover;
+   background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.module-8 .heading {
+  color: #fff;
+  font-size: 100px;
+  padding-bottom: 25px;
+}
+.module-8 .book {
+  font-family: Oswald, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 10px;
+}
+.module-8 .book a {
+  background: #ab3f1b;
+  text-decoration: none;
+  border: 2px solid #ab3f1b;
+  border-radius: 2px;
+  padding: 12px 30px;
+  color: #fff;
+  box-shadow: 0 -1px 0 rgba(0,0,0,0.1) inset;
+}
+.module-8 .banner {
+  transform: translate(0%,57%) translate3d(0px,0px,0px);
+}

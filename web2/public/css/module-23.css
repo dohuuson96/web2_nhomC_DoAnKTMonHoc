@@ -1,0 +1,15 @@
+.module-23 {
+  font-family: Bahiana, sans-serif;
+}
+.module-23 .img {
+  background: url(../images/m2.jpg);
+  padding: 180px;
+  margin-bottom: 90px;
+  margin-top: 90px;
+}
+.module-23 .dinner {
+  color: #fff;
+  text-align: center;
+  font-size: 85px;
+  transform: translate(0%,-20%) translate3d(0px,0px,0px);
+}

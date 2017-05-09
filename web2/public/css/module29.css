@@ -1,0 +1,19 @@
+.module29 {
+    width: 100%;
+    height: 450px;
+    background: url(../images2/hinhbn.jpg);
+    background-position: center;
+    visibility: inherit;
+    transform: translate(0%,-23.636%) translate3d(0px,0px,0px);
+    background-size: cover;
+    margin-top: 192px;
+        font-family: Bahiana, sans-serif;  
+
+}
+.module29 p {
+    color: #ffffff;
+    font-size: 120px;
+    text-align: center;
+    padding: 165px;
+    
+}

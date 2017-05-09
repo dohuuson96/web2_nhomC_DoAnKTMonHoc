@@ -1,0 +1,154 @@
+.module-12 {
+  margin-top: 45px;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+}
+.module-12 h2 {
+  font-family: 'Oswald', sans-serif;
+}
+.module-12 .us {
+  margin-bottom: 25px;
+}
+.module-12 .us h2 {
+  font-size: 40px;
+  color: #111;
+  text-transform: uppercase;
+}
+.module-12 .us p {
+  padding: 10px 0;
+  font-size: 13px;
+  line-height: 1.5;
+  color: #595959;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+.module-12 .aa {
+  padding-top: 35px;
+}
+.module-12 .ab {
+  padding-top: 80px;
+}
+.module-12 .paint {
+  margin-bottom: 35px;
+}
+.module-12 .paint p {
+  margin: 0 auto;
+  border-top: 1px dashed #555555;
+  width: 120px;
+}
+.module-12 .write a {
+  font-size: 16px;
+  color: #111111;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+.module-12 .diamond {
+  margin: 0 auto;
+  width: 212px;
+  height: 212px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+.module-12 .diamond-bg {
+  background: #111;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%) rotate(45deg);
+  transform-origin: center center;
+}
+.module-12 .diamond-bg span {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  bottom: 5px;
+  border: 1px dashed;
+  opacity: .4;
+}
+.module-12 .diamond-content {
+  width: 100%;
+  text-align: center;
+  position: relative;
+  z-index: 20;
+  font-size: .9em;
+  margin: 0 auto;
+  max-width: 70%;
+}
+.module-12 .xuong {
+  margin-top: 50px;
+}
+.module-12 .container-fluid {
+  padding-top: 20px;
+}
+.module-12 .carousel-indicators .active {
+  background-color: #FFF;
+}
+.module-12 .carousel-indicators li {
+  border: 3px solid #fff;
+  padding: 5px;
+  margin: 0 6px;
+}
+.module-12 .carousel-inner img {
+  width: 100%;
+  max-height: 460px;
+}
+.module-12 .carousel-control {
+  width: 0;
+}
+.module-12 .carousel-control.left-mobile,
+.module-12 .carousel-control.right-mobile {
+  opacity: 1;
+  filter: alpha(opacity=100);
+  background-image: none;
+  background-repeat: no-repeat;
+  text-shadow: none;
+}
+.module-12 .carousel-control.left-moble span {
+  padding: 10px 15px;
+}
+.module-12 .carousel-control.right-mobile span {
+  padding: 10px 15px;
+}
+.module-12 .carousel-control .iconleft,
+.module-12 .carousel-control .iconright,
+.module-12 .carousel-control .icon-prev,
+.module-12 .carousel-control .icon-next {
+  position: absolute;
+  top: 45%;
+  z-index: 5;
+  display: inline-block;
+}
+.module-12 .carousel-control .iconleft,
+.module-12 .carousel-control .icon-prev {
+  left: 30px;
+}
+.module-12 .carousel-control .iconright,
+.module-12 .carousel-control .icon-next {
+  right: 30px;
+}
+.module-12 .carousel-control.left-mobile span:hover,
+.module-12 .carousel-control.right-mobile span:hover {
+  opacity: .7;
+  filter: alpha(opacity=70);
+}
+@media (max-width: 768px) {
+  .module-12 .carousel-control .iconright,
+  .module-12 .carousel-control .icon-next {
+    margin-right: 15px;
+    padding: 5px;
+  }
+  .module-12 .carousel-control.left-mobile span {
+    padding: 5px;
+  }
+  .module-12 .carousel-control.right-mobile span {
+    padding: 5px;
+  }
+}

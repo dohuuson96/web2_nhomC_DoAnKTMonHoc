@@ -1,0 +1,15 @@
+.module-13 {
+  font-family: Bahiana, sans-serif;
+  padding-top: 70px;
+}
+.module-13 .img {
+  background: url(../images/h4.jpg);
+  padding: 200px;
+  background-size: cover;
+}
+.module-13 .call {
+  color: #fff;
+  text-align: center;
+  font-size: 100px;
+  transform: translate(0%,2%) translate3d(0px,0px,0px);
+}

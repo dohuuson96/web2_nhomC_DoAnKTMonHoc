@@ -1,0 +1,190 @@
+.module-5 {
+    margin-top: -20px;
+}
+.module-5 a {
+  text-decoration: none;
+}
+.module-5 .aa {
+  padding: 0 2px !important;
+  float: left;
+  position: relative;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.module-5 .box {
+  padding: 24px 17px;
+}
+.module-5 .img_hinh {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+.module-5 .img1:hover,
+.module-5 .img2:hover,
+.module-5 .img3:hover {
+  -webkit-transform: scale(1.01);
+  transform: scale(1.01);
+  -webkit-transition: 0.4s ease;
+  transition: 0.4s ease;
+  height: 222px;
+}
+.module-5 .img1:hover {
+  background: url(../images/h2.jpg) center center;
+  background-size: cover;
+}
+.module-5 .img2:hover {
+  background: url(../images/h3.jpg) center center;
+  background-size: cover;
+}
+.module-5 .img3:hover {
+  background: url(../images/h4.jpg) center center;
+  background-size: cover;
+}
+.module-5 .img1 {
+  background: url(../images/h2.jpg) center center;
+  background-size: cover;
+  width: 100%;
+  height: 222px;
+}
+.module-5 .open {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  color: #fff;
+  line-height: 1.2;
+  transform: translate(0%,95%) translate3d(0px,0px,0px);
+}
+.module-5 .kt {
+  margin: 0;
+  font-size: 12px;
+}
+.module-5 .heading1 h2 {
+  margin-top: 24px;
+}
+.module-5 .heading1 {
+  transition: all .1s ease-out;
+}
+.module-5 .img1:hover .open .heading1 .kt,
+.module-5 .img2:hover .open .heading1 .kt,
+.module-5 .img3:hover .open .heading1 .kt {
+  transform: translate(0,-5px);
+}
+.module-5 .img1:hover .open .heading1 h2,
+.module-5 .img2:hover .open .heading1 h2,
+.module-5 .img3:hover .open .heading1 h2 {
+  transform: translate(0,5px);
+}
+.module-5 .kt span {
+  display: inline-block;
+  transition: none;
+}
+.module-5 .kt:hover {
+  transform: translate(0,-5px);
+}
+.module-5 .kt1 {
+  transform: translateX(0px) translateY(8px) rotate(-19deg);
+}
+.module-5 .kt2 {
+  transform: translateX(0px) translateY(5px) rotate(-15deg);
+}
+.module-5 .kt3 {
+  transform: translateX(0px) translateY(3px) rotate(-11deg);
+}
+.module-5 .kt4 {
+  transform: translateX(0px) translateY(1px) rotate(-6deg);
+}
+.module-5 .kt5 {
+  transform: translateX(0px) translateY(0px) rotate(-2deg);
+}
+.module-5 .kt6 {
+  transform: translateX(0px) translateY(0px) rotate(1deg);
+}
+.module-5 .kt7 {
+  transform: translateX(0px) translateY(0px) rotate(5deg);
+}
+.module-5 .kt8 {
+  transform: translateX(0px) translateY(2px) rotate(10deg);
+}
+.module-5 .kt9 {
+  transform: translateX(0px) translateY(5px) rotate(14deg);
+}
+.module-5 .kt10 {
+  transform: translateX(0px) translateY(8px) rotate(19deg);
+}
+.module-5 .img2 {
+  background: url(../images/h3.jpg) center center;
+  background-size: cover;
+  width: 100%;
+  height: 222px;
+}
+.module-5 .kt12 {
+  transform: translateX(0px) translateY(14px) rotate(-25deg);
+}
+.module-5 .kt22 {
+  transform: translateX(0px) translateY(10px) rotate(-21deg);
+}
+.module-5 .kt32 {
+  transform: translateX(-1px) translateY(6px) rotate(-16deg);
+}
+.module-5 .kt42 {
+  transform: translateX(0px) translateY(2px) rotate(-10deg);
+}
+.module-5 .kt52 {
+  transform: translateX(0px) translateY(0px) rotate(-5deg);
+}
+.module-5 .kt62 {
+  transform: translateX(0px) translateY(0px) rotate(-1deg);
+}
+.module-5 .kt72 {
+  transform: translateX(0px) translateY(0px) rotate(2deg);
+}
+.module-5 .kt82 {
+  transform: translateX(0px) translateY(1px) rotate(6deg);
+}
+.module-5 .kt92 {
+  transform: translateX(0px) translateY(3px) rotate(11deg);
+}
+.module-5 .kt102 {
+  transform: translateX(1px) translateY(5px) rotate(15deg);
+}
+.module-5 .kt112 {
+  transform: translateX(0px) translateY(9px) rotate(20deg);
+}
+.module-5 .kt122 {
+  transform: translateX(0px) translateY(14px) rotate(25deg);
+}
+.module-5 .img3 {
+  background: url(../images/h4.jpg) center center;
+  background-size: cover;
+  margin-right: 5px;
+  width: 100%;
+  height: 222px;
+}
+.module-5 .kt13 {
+  transform: translateX(0px) translateY(7px) rotate(-18deg);
+}
+.module-5 .kt23 {
+  transform: translateX(0px) translateY(4px) rotate(-13deg);
+}
+.module-5 .kt33 {
+  transform: translateX(0px) translateY(1px) rotate(-8deg);
+}
+.module-5 .kt43 {
+  transform: translateX(0px) translateY(0px) rotate(-4deg);
+}
+.module-5 .kt53 {
+  transform: translateX(0px) translateY(0px) rotate(0deg);
+}
+.module-5 .kt63 {
+  transform: translateX(0px) translateY(0px) rotate(3deg);
+}
+.module-5 .kt73 {
+  transform: translateX(0px) translateY(1px) rotate(8deg);
+}
+.module-5 .kt83 {
+  transform: translateX(0px) translateY(3px) rotate(12deg);
+}
+.module-5 .kt93 {
+  transform: translateX(0px) translateY(7px) rotate(17deg);
+}

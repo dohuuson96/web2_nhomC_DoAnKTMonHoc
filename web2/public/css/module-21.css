@@ -1,0 +1,19 @@
+.module-21 {
+    font-family: Bahiana, sans-serif;
+}
+.module-21 .img {
+    background: url(../images/m1.jpg);
+    padding: 170px;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.module-21 .lunch {
+    color: #fff;
+    text-align: center;
+    font-size: 100px;
+    transform: translate(0%,-10%) translate3d(0px,0px,0px);
+}

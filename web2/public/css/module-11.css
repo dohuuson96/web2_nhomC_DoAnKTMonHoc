@@ -1,0 +1,27 @@
+.module-11 {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+.module-11 .text p {
+  padding: 0 400px;
+  margin: 35px 0;
+  color: #595959;
+}
+.module-11 .divider-inner {
+  position: relative;
+  display: inline-block;
+}
+.module-11 .line-left {
+  right: 100%;
+  margin-right: 10px;
+}
+.module-11 .divider-line {
+  position: absolute;
+  top: 50%;
+  border-top: 1px solid;
+  width: 90px;
+}
+.module-11 .line-right {
+  left: 100%;
+  margin-left: 10px;
+}

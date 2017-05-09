@@ -1,0 +1,53 @@
+.module28 {
+    margin-top: 81px;
+    font-family: Oswald, sans-serif;
+}
+.module28 .gd1 {
+    text-align: center;
+    margin: 33% auto;
+}
+.module28 .gd1 p {
+    margin: 0px 0px 20px;
+    color: #595959;
+    font-family: Lato, sans-serif;
+}
+.module28 .gd1 h1 {
+    font-size: 40px;
+}
+.module28 .gd1 a {
+    font-family: Lato, sans-serif;
+    color: #ab3f1b;
+    text-decoration: none;
+}
+.module28 .gd2 {
+    margin: 33% auto;
+    background: #111;
+    width: 150px;
+    height: 150px;
+    transform: rotate(45deg);
+    transform-origin: center center;
+}
+.module28 .gd2 p {
+    font-family: Lato, sans-serif;  
+
+    color: #ffffff;
+    width: 100%;
+    text-align: center;
+    font-size: .9em;
+    transform: rotate(-45deg);
+    padding: 42px 10px;
+}
+.module28 .gd2 .n1::before {
+    position: absolute;
+    content: "";
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    opacity: 0.8;
+    border: 1.5px dashed #4cae4c;
+}
+.module28 img {
+    width: 100%;
+    height: 320px;
+}
